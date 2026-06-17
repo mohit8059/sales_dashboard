@@ -1,4 +1,3 @@
-## Dashboard Screenshot
 
 ![Dashboard](sales_dashboard.png)
 
