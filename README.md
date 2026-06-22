@@ -3,6 +3,8 @@
 
 # Sales Performance Dashboard
 
+Youtube Link Of Video : https://youtube.com/shorts/f6aw-jcRWgw?si=IXb8rOhAVKcvxYEL
+
 ## Project Overview
 
 This Power BI dashboard analyzes sales, profit, orders and regional performance.
@@ -30,3 +32,5 @@ This Power BI dashboard analyzes sales, profit, orders and regional performance.
 ## Author
 
 Mohit Kasana
+
+Portfolio Link : https://mohit8059.github.io/Mohit_Portfolio/
